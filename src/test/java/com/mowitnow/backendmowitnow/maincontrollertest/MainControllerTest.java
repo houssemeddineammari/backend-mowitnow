@@ -1,4 +1,4 @@
-package com.mowitnow.backendmowitnow.test;
+package com.mowitnow.backendmowitnow.maincontrollertest;
 
 import org.junit.jupiter.api.Test;
 
